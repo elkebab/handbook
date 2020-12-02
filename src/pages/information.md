@@ -151,11 +151,13 @@ hvilket oppdrag det gjelder.
 
 ### Reiser og utgifter som viderefaktureres via meglere (eWork, Experis m.fl)
 
-Meglere har egne systemer for viderefakturering av reiser.
+Meglere har egne systemer for viderefakturering av reiser og behandles spesielt
+på grunn av særregler for viderefakturering av MVA.
 
 1. Lever utgiftsrapport gjennom meglers system i henhold til deres rutiner
-2. Send samme utgiftsrapport til utgiftsrapport@variant.no slik som for andre
-   utgiftsrapporter. Skriv i mailen at det viderefaktureres, og hvilken kunde
+2. Send skjermbilde/utskrift av utgiftsrapport fra meglers system til 
+   utgiftsrapport@variant.no (slik som for andre utgiftsrapporter). 
+   Skriv i mailen at det viderefaktureres, og hvilken kunde
    det gjelder.
 
 ### Utgifter i utenlandsk valuta
