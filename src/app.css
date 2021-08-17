@@ -41,7 +41,11 @@ h2 {
 }
 h3 {
   font-size: 2rem;
-  font-family: "Graphik", serif;
+  font-family: "Graphik", sans-serif;
+}
+h4 {
+  font-family: "Graphik", sans-serif;
+  font-weight: normal;
 }
 li + li {
   margin-top: 0.5rem;
